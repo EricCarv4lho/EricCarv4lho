@@ -2,7 +2,7 @@ Hi 👋 My name is Éric
 ==========================
 Programming Student
 -----------------------------
-I'm a 17-year-old programming student. My main focus is front-end development and making applications that impact the lives of thousands of users.
+I'm a 17 years old programming student. My main focus is front-end development and making applications that impact the lives of thousands of users.
 
 * 🌍  I'm based in Salvador-BA , Brazil
 * ✉️  You can contact me at [ericcrzcontato@gmail.com]
