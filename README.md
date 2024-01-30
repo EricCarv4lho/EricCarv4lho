@@ -1,22 +1,18 @@
-Hi 👋 My name is Éric
-==========================
-Programming Student
------------------------------
-I'm a 17 years old programming student. My main focus is front-end development and making applications that impact the lives of thousands of users.
-
-* 🌍  I'm based in Salvador-BA , Brazil
-* ✉️  You can contact me at [ericcrzcontato@gmail.com]
-* 🚀  I'm currently in the third year of high school.
-* 🧠  I'm learning html,css and javascript
-* 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
-* ⚡  I love sports and my favorite is football, although i don't play as well...
+# 💫 About Me:
+I'm a 17 years old programming student. My main focus is front-end development and making applications that impact the lives of thousands of users.<br><br>🌍 I'm based in Salvador-BA , Brazil<br>✉️ You can contact me at [ericcrzcontato@gmail.com]<br>🚀 I'm currently in the third year of high school.<br>🧠 I'm learning html,css and javascript<br>🤝 I'm open to collaborating on projects that have a high impact in peoples lives<br>⚡ I love sports and my favorite is football, although i don't play as well...
 
 
-### Socials
-<p align="left"> <a href="https://discord.com/users/Ericcrz#3800" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a <img <br>
- <br>
-<b>My GitHub Stats</b>
-<a href="http://www.github.com/EricCarv4lho"><img src="https://github-readme-stats-peguimasid.vercel.app/api?username=EricCarv4lho&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true%22%20alt=%22EricCarv4lho%27s%20GitHub%20stats" /></a>
-<a href="http://www.github.com/EricCarv4lho"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EricCarv4lho&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<a href="http://www.github.com/EricCarv4lho"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=EricCarv4lho&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ericcruzz_) 
 
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Éric Carvalho&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Éric Carvalho&theme=vision-friendly-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Éric Carvalho&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Éric Carvalho&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
