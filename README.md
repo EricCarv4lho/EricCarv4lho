@@ -1,5 +1,5 @@
 #  About Me:
-I am Éric and I'm 18 years old. My main focus is front-end development and making applications that impact the lives of thousands of users.<br><br>🌍 I'm based in Salvador-BA , Brazil<br>✉️ You can contact me at [ericcrzcontato@gmail.com]<br>🧠 I'm learning HTML, CSS and javascript<br>🤝 I'm open to collaborating on projects that have a high impact in peoples lives<br>⚡ I love sports and my favorite is football, although i don't play as well...
+I am Éric and I'm 18 years old. My main focus is front-end development and making applications that impact the lives of thousands of users.<br><br>🌍 I'm based in Salvador-BA , Brazil<br>✉️ You can contact me at [ericcrzcontato@gmail.com]<br>🧠 I'm learning HTML, CSS and javascript<br>🤝 I'm open to collaborating on projects that have a high impact in peoples lives
 
 
 ## 🌐 Socials:
