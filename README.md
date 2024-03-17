@@ -12,7 +12,7 @@ Hi, I am Éric and I'm 18 years old.
 
 🤝 I'm open to collaborating on projects that have a high impact in peoples lives.
 
-👨🏽‍💻I study Systems Analysis and Development - Unifacs.
+👨🏽‍💻 I'm studying Systems Development Analyst - Unifacs
 
 
 
