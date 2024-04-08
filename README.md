@@ -6,13 +6,13 @@
 #  About Me:
 Hi, I am Éric and I'm 18 years old. 
 
-🌍 I'm based in Salvador-BA , Brazil.
+🌍 Salvador-BA , Brazil.
 
 ✉️ You can contact me at [ericcrzcontato@gmail.com].
 
 🤝 I'm open to collaborating on projects that have a high impact in peoples lives.
 
-👨🏽‍💻 I'm studying Systems Development Analyst - Unifacs
+👨🏽‍💻 Systems Development Analyst - Unifacs
 
 
 
