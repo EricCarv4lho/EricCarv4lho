@@ -4,8 +4,9 @@
 
 
 
-#  About Me:
-Hi, I am Éric and I'm 18 years old. ![Logo da Minha Empresa](https://camo.githubusercontent.com/309bd6e8144071d8dd68dc1205c4862c18a1d2ba09f384a2087752ca8feb4ec0/68747470733a2f2f696e7374617a6f69642e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30322f636f64696e672d696d6167652e706e67)
+#  About Me:![Logo da Minha Empresa](https://camo.githubusercontent.com/309bd6e8144071d8dd68dc1205c4862c18a1d2ba09f384a2087752ca8feb4ec0/68747470733a2f2f696e7374617a6f69642e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30322f636f64696e672d696d6167652e706e67)
+
+Hi, I am Éric and I'm 18 years old. 
 
 🌍 Salvador-BA , Brazil.
 
@@ -46,6 +47,8 @@ Hi, I am Éric and I'm 18 years old. ![Logo da Minha Empresa](https://camo.githu
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=EricCarv4lho&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+
 
 
 
