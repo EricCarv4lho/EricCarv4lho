@@ -3,8 +3,9 @@
 
 
 
+
 #  About Me:
-Hi, I am Éric and I'm 18 years old. 
+Hi, I am Éric and I'm 18 years old. ![Logo da Minha Empresa](https://camo.githubusercontent.com/309bd6e8144071d8dd68dc1205c4862c18a1d2ba09f384a2087752ca8feb4ec0/68747470733a2f2f696e7374617a6f69642e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30322f636f64696e672d696d6167652e706e67)
 
 🌍 Salvador-BA , Brazil.
 
@@ -18,17 +19,20 @@ Hi, I am Éric and I'm 18 years old.
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/)
+
+[![Badge](https://img.shields.io/badge/-Portfolio-%237159c?style=for-the-badge&logo=)](https://ericcarvalhoportfolio.netlify.app/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericcarvalho/)
+
+
+
+
 
 
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+
 
 
 # 📊 GitHub Stats:
