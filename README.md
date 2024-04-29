@@ -10,7 +10,7 @@
 
 Hi, I am Éric and I'm 18 years old. 
 
-🌍 Salvador-BA , Brazil.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Round%20Pushpin.png" alt="Round Pushpin" width="25" height="25" /> Salvador-BA , Brazil.
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Person%20Raising%20Hand%20Medium%20Skin%20Tone.png" alt="Person Raising Hand Medium Skin Tone" width="25" height="25" /> You can contact me at [ericcrzcontato@gmail.com].
 
