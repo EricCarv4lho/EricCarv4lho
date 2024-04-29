@@ -7,7 +7,7 @@
 
 
 
-#  About Me:
+
 
 Hi, I am Éric!
 
