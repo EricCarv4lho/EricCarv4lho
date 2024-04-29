@@ -21,9 +21,9 @@ Hi, I am Éric and I'm 18 years old.
 ##  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Person%20Raising%20Hand%20Medium%20Skin%20Tone.png" alt="Person Raising Hand Medium Skin Tone" width="25" height="25"  /> Contacts:
 
 
-[![Badge](https://img.shields.io/badge/-Portfolio-%237159c4?style=for-the-badge&logo=)](https://ericcarvalhoportfolio.netlify.app/)
 
-<a href = "mailto:ericcrzcontato@gmail.com"><img src="https://img.shields.io/badge/-Portfolio-%237159c4?style=for-the-badge" target="_blank"></a>
+
+<a href = "ericcarvalhoportfolio.netlify.app"><img src="https://img.shields.io/badge/-Portfolio-%237159c4?style=for-the-badge" target="_blank"></a>
 <a href="https://linkedin.com/in/ericcarv4lho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:ericcrzcontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
