@@ -23,7 +23,16 @@ Hi, I am Éric and I'm 18 years old.
 
 [![Badge](https://img.shields.io/badge/-Portfolio-%237159c4?style=for-the-badge&logo=)](https://ericcarvalhoportfolio.netlify.app/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericcarvalho/)
+<a href = "mailto:ericcrzcontato@gmail.com"><img src="https://img.shields.io/badge/-Portfolio-%237159c4?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://linkedin.com/in/ericcarv4lho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "mailto:ericcrzcontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+
+
+  
+ 	
+
+  
 
 
 
