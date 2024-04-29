@@ -36,7 +36,7 @@ Hi, I am Éric and I'm 18 years old.
 # 💻 Tech Stack:
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,mongo,js,html,css,git,py&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,mongo,js,html,css,git,&theme=dark)](https://skillicons.dev)
 
 
 
