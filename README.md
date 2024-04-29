@@ -10,7 +10,7 @@
 
 Hi, I am Éric and I'm 18 years old. 
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Round%20Pushpin.png" alt="Round Pushpin" width="25" height="25" /> Salvador-BA , Brazil.
+
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Medium-Light%20Skin%20Tone.png" alt="Folded Hands Medium-Light Skin Tone" width="25" height="25" /> I'm open to collaborating on projects that have a high impact in peoples lives.
 
@@ -23,7 +23,7 @@ Hi, I am Éric and I'm 18 years old.
 
 [![Badge](https://img.shields.io/badge/-Portfolio-%237159c4?style=for-the-badge&logo=)](https://ericcarvalhoportfolio.netlify.app/)
 
-<a href = "mailto:ericcrzcontato@gmail.com"><img src="https://img.shields.io/badge/-Portfolio-%237159c4?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:ericcrzcontato@gmail.com"><img src="https://img.shields.io/badge/-Portfolio-%237159c4?style=for-the-badge" target="_blank"></a>
 <a href="https://linkedin.com/in/ericcarv4lho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:ericcrzcontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
