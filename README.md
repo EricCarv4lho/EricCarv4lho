@@ -9,7 +9,7 @@
 
 #  About Me:
 
-Hi, I am Éric and I'm 18 years old. 
+Hi, I am Éric!
 
 
 
