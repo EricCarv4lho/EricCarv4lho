@@ -20,7 +20,7 @@ Hi, I am Éric and I'm 18 years old.
 
 
 
-## 🌐 Socials:
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25" /> Socials:
 
 
 [![Badge](https://img.shields.io/badge/-Portfolio-%237159c4?style=for-the-badge&logo=)](https://ericcarvalhoportfolio.netlify.app/)
