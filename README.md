@@ -1,5 +1,6 @@
 
-<strong>Éric Carvalho</strong>
+<span style="font-size: 24px; font-weight: bold;">Éric Carvalho</span>
+
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
@@ -7,9 +8,9 @@
 
 
 
-#  About Me:
+<span style="font-size: 24px; font-weight: bold;">About Me</span>
 
-Hi, I am Éric and I'm 18 years old. 
+Hi, I am Éric! 
 
 🌍 Salvador-BA , Brazil.
 
@@ -21,7 +22,7 @@ Hi, I am Éric and I'm 18 years old.
 
 
 
-## 🌐 Socials:
+<span style="font-size: 24px; font-weight: bold;">Contacts</span>
 
 
 [![Badge](https://img.shields.io/badge/-Portfolio-%237159c4?style=for-the-badge&logo=)](https://ericcarvalhoportfolio.netlify.app/)
@@ -34,7 +35,7 @@ Hi, I am Éric and I'm 18 years old.
 
 
 
-# 💻 Tech Stack:
+<span style="font-size: 24px; font-weight: bold;">Skills</span>
 
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,mongo,js,html,css,git,&theme=light)](https://skillicons.dev)
