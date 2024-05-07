@@ -2,11 +2,11 @@
 # Éric Carvalho <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist Medium Skin Tone" width="45" height="45" /> Cursando Análise e Desenvolvimento de Sistemas - Unifacs
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist Medium Skin Tone" width="45" height="45" /> Analysis and Systems Development
 
 
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Person%20Raising%20Hand%20Medium%20Skin%20Tone.png" alt="Person Raising Hand Medium Skin Tone" width="45" height="45"  /> <strong> CONTATOS:<strong>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Person%20Raising%20Hand%20Medium%20Skin%20Tone.png" alt="Person Raising Hand Medium Skin Tone" width="45" height="45"  /> <strong> CONTACTS:<strong>
 
 
 
@@ -27,7 +27,7 @@
 
 
 
-# SKILLS
+# Skills
 
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,mongo,js,html,css,git,&theme=light)](https://skillicons.dev) 
