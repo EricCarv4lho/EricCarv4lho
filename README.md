@@ -33,6 +33,6 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,mongo,js,html,css,git,&theme=light)](https://skillicons.dev) 
 # 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="mario programando" min-width="400px" max-width="400px" width="400px" align="center">
-<img src = "https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="emoji café" min-width="200px" max-width="200px" width="200px" align="right">>
+
 
 
