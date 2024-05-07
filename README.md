@@ -27,7 +27,7 @@
 
 
 
-# 
+# SKILLS
 
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,mongo,js,html,css,git,&theme=light)](https://skillicons.dev) 
