@@ -1,4 +1,5 @@
 
+
 # Éric Carvalho <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 
@@ -11,10 +12,9 @@
 
 
 
-<a href = "https://ericcarvalhoportfolio.netlify.app/"><img src="https://img.shields.io/badge/-portfolio-%237159c4?style=for-the-badge">
- target="_blank"></a>
+<a href = "https://ericcarvalhoportfolio.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-%237159c4?style=for-the-badge" target="_blank"></a>
 <a href="https://linkedin.com/in/ericcarv4lho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%237159c4?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href = "mailto:ericcrzcontato@gmail.com"><img src="https://img.shields.io/badge/-ericcrzcontato@gmail.com-%237159c4?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:ericcrzcontato@gmail.com"><img src="https://img.shields.io/badge/-ericcrzcontato@gmail.com-%237159c4?style===for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
 
@@ -32,7 +32,3 @@
 
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,mongo,js,html,css,git,&theme=light)](https://skillicons.dev) 
-
-
-
-
