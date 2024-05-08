@@ -32,6 +32,7 @@
 # Skills
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EricCarv4lho&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EricCarv4lho&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,mongo,js,html,css,git,&theme=light)](https://skillicons.dev) 
