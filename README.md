@@ -7,7 +7,9 @@
 
 
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Person%20Raising%20Hand%20Medium%20Skin%20Tone.png" alt="Person Raising Hand Medium Skin Tone" width="45" height="45"  /> <strong> CONTACTS:<strong>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Person%20Raising%20Hand%20Medium%20Skin%20Tone.png" alt="Person Raising Hand Medium Skin Tone" width="45" height="45"  />
+
+<strong> CONTACTS:<strong>
 
 
 
