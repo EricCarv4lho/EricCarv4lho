@@ -34,4 +34,4 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EricCarv4lho&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,mongo,js,html,css,git,&theme=light)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,js,html,css,git,&theme=light)](https://skillicons.dev) 
