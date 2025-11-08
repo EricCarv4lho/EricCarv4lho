@@ -13,7 +13,6 @@
 
 
 
-<a href = "https://ericcarvalhoportfolio.netlify.app/"><img src="https://img.shields.io/badge/-Website-%237159c4?style=flat-square" target="_blank"></a>
 <a href="https://linkedin.com/in/ericcarv4lho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%237159c4?style=flat-square&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:ericcrzcontato@gmail.com"><img src="https://img.shields.io/badge/-ericcrzcontato@gmail.com-%237159c4?style=flat-square&logo=gmail&logoColor=white" target="_blank"></a>
 
